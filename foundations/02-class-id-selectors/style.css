@@ -1,0 +1,16 @@
+.odd{
+    color: black;
+    background-color: #b9825c;
+}
+.cooler{
+    font-size: 24px;
+}
+#n-4{
+    background-color: hsl(120, 50%, 60%);
+    color: black;
+    font-weight: bold;
+}
+#n-2{
+    color: #0A0AFA;
+    font-size: 29px;
+}
